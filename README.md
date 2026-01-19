@@ -1,6 +1,6 @@
 # Hi there, I'm Yutak6116 👋
 
-![3D Contribs](profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribs](profile-3d-contrib/profile-season-animate.svg)
 
 ## 🚀 About Me
 
