@@ -18,14 +18,20 @@ ML Engineer / Frontend Developer.
 
 ## 🛠 Projects
 
-### [Portfolio](https://yutak6116.github.io/Portfolio/)
+### Portfolio
 
 My personal portfolio site built with React & TypeScript.
 
-### [Poker Totalization System](https://poker-totalization-system.com/)
+[<img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" />](https://yutak6116.github.io/Portfolio/) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/Yutak6116/Portfolio)
+
+### Poker Totalization System
 
 A balance management app for my poker circle.
 
+[<img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" />](https://poker-totalization-system.com/) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/Yutak6116/Poker-Totalization-System)
+
 ## 📫 Connect with Me
 
-[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/yutak_dev)
+[<img src="https://img.shields.io/badge/-black?style=flat-square&logo=x&logoColor=white" />](https://x.com/yutak_dev)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:yk.individual@gmail.com)
+[<img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white" />](https://zenn.dev/yutak6116)
