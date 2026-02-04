@@ -12,8 +12,8 @@ ML Engineer / Frontend Developer.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yutak6116&show_icons=true&theme=tokyonight" alt="Yutak6116's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yutak6116&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yutak6116&show_icons=true&theme=tokyonight" alt="Yutak6116's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yutak6116&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ## 🛠 Projects
