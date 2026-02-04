@@ -28,7 +28,13 @@ My personal portfolio site built with React & TypeScript.
 
 A balance management app for my poker circle.
 
-[<img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" />](https://poker-totalization-system.com/) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/Yutak6116/Poker-Totalization-System)
+[<img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" />](https://poker-totalization-system.com/) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/BigFish-Poker-Dev/Poker-Totalization-System)
+
+### Kake-AI-bo
+
+My household budget app packed with my “wants”.
+
+[<img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" />](https://yutak6116.github.io/Kake-AI-bo/) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/Yutak6116/Kake-AI-bo)
 
 ## 📫 Connect with Me
 
